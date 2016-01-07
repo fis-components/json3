@@ -1,0 +1,10 @@
+{
+    "name": "json3",
+    "description": "A modern JSON implementation compatible with nearly all JavaScript platforms.",
+    "repos": "https://github.com/bestiejs/json3.git",
+    "main": "lib/json3",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "3.3.2"
+}
